@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1680641343 source:c:\users\laboratorios\desktop\progra martes tarde\punteros y vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectorEnteros.h"
+	"utiles.h"
+
+1680637863 source:c:\users\laboratorios\desktop\progra martes tarde\punteros y vectores\utiles.c
+
+1680641297 source:c:\users\laboratorios\desktop\progra martes tarde\punteros y vectores\vectorenteros.c
+
+1680640753 c:\users\laboratorios\desktop\progra martes tarde\punteros y vectores\vectorenteros.h
+
+1680637863 c:\users\laboratorios\desktop\progra martes tarde\punteros y vectores\utiles.h
+
+1681173718 source:c:\users\valen\onedrive - universidad nacional de la matanza\escritorio\topicos de programacion\clase 2\punteros y vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectorEnteros.h"
+	"utiles.h"
+
+1681174139 c:\users\valen\onedrive - universidad nacional de la matanza\escritorio\topicos de programacion\clase 2\punteros y vectores\vectorenteros.h
+
+1680637864 c:\users\valen\onedrive - universidad nacional de la matanza\escritorio\topicos de programacion\clase 2\punteros y vectores\utiles.h
+
+1680637864 source:c:\users\valen\onedrive - universidad nacional de la matanza\escritorio\topicos de programacion\clase 2\punteros y vectores\utiles.c
+
+1681174346 source:c:\users\valen\onedrive - universidad nacional de la matanza\escritorio\topicos de programacion\clase 2\punteros y vectores\vectorenteros.c
+
